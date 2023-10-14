@@ -1,0 +1,46 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.nayan</groupId>
+  <artifactId>myproject</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+<depedencies>
+	
+	
+<dependency>
+    <groupId>org.testng</groupId>
+    <artifactId>testng</artifactId>
+    <version>7.8.0</version>
+    <scope>test</scope>
+</dependency>
+</depedencies>
+<depedencies>
+<dependency>
+    <groupId>org.seleniumhq.selenium</groupId>
+    <artifactId>selenium-api</artifactId>
+    <version>4.13.0</version>
+</dependency>
+</depedencies>
+<depedencies>
+	<dependency>
+    <groupId>org.seleniumhq.selenium</groupId>
+    <artifactId>selenium-firefox-driver</artifactId>
+    <version>4.13.0</version>
+</dependency>
+</depedencies>
+<depedencies>
+	<dependency>
+    <groupId>org.seleniumhq.selenium</groupId>
+    <artifactId>selenium-firefox-driver</artifactId>
+    <version>4.13.0</version>
+</dependency>
+</depedencies>
+
+<depedencies>
+	<dependency>
+    <groupId>org.webjars.npm</groupId>
+    <artifactId>webdriver-manager</artifactId>
+    <version>5.5.3</version>
+	</dependency>
+	
+</depedencies>
+</project>

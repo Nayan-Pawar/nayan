@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<dirs>
+    <entry loc="/usr/lib/jvm/java-1.8.0-openjdk-1.8.0.382.b05-1.el7_9.x86_64" stamp="1693988052220"/>
+    <entry loc="/usr/lib/jvm/java-1.7.0-openjdk-1.7.0.261-2.6.22.2.el7_8.x86_64" stamp="1656930970791"/>
+    <entry loc="/usr/lib/jvm/java-1.6.0-openjdk-1.6.0.41.x86_64/jre" stamp="1656930683708"/>
+    <entry loc="/usr/lib/jvm/java-1.8.0-openjdk-1.8.0.382.b05-1.el7_9.x86_64/jre" stamp="1693988023669"/>
+    <entry loc="/usr/lib/jvm/java-1.6.0-openjdk-1.6.0.41.x86_64" stamp="1656930683688"/>
+    <entry loc="/usr/lib/jvm/java-1.7.0-openjdk-1.7.0.261-2.6.22.2.el7_8.x86_64/jre" stamp="1656930567163"/>
+    <entry loc="/usr/lib/jvm/jdk-17-oracle-x64" stamp="1695464448251"/>
+</dirs>
